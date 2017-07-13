@@ -1,5 +1,10 @@
 # vue-hackernews-2.0
 
+最好是使用原作者的版本
+
+
+
+----
 HackerNews clone built with Vue 2.0 + vue-router + vuex, with server-side rendering.
 
 <p align="center">
